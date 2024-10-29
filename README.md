@@ -1,5 +1,4 @@
-[# Linux-IPC-Message-Queues
-Linux IPC-Message Queues
+# Linux IPC-Message Queues
 # Developed by: DAPPILI VASAVI
 # Register number: 212223040030
 
@@ -100,4 +99,4 @@ int main() {
 
 # RESULT:
 The programs are executed successfully.
-](https://github.com/VasaviDappili/Linux-IPC-Pipes.git)
+
